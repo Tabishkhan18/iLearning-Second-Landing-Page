@@ -15,7 +15,7 @@ const slides = [
   },
   {
     logo: 'amazon.png',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis eveniet distinctio earum ullam. Officii.',
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis eveniet distinctio earum ullam.',
     name: 'STEVE ROGERS',
     position: 'Finance, Amazon',
   },
